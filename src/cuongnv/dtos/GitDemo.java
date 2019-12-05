@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package gitdemo;
+package cuongnv.dtos;
 
 /**
  *
@@ -16,6 +16,7 @@ public class GitDemo {
      */
     public static void main(String[] args) {
         System.out.println("Hello");
+        System.out.println("Cuong");
     }
     
 }
